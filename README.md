@@ -1,6 +1,11 @@
 # hexo-canonical-link
 Hexo plugin to add canonical links for pages
 
+## Installation
+```sh
+npm install --save hexo-canonical-link
+```
+
 ## Usage in ejs
 
 ```ejs
