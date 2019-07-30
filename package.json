@@ -1,0 +1,24 @@
+{
+  "name": "hexo-canonical-link",
+  "version": "1.0.1",
+  "description": "Hexo plugin to add canonical links for pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "canonical"
+  ],
+  "author": "Tarun Batra <tarun.batra00@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunbatra/hexo-canonical-link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tarunbatra/hexo-canonical-link/issues"
+  },
+  "homepage": "https://github.com/tarunbatra/hexo-canonical-link#readme"
+}
